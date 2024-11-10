@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently focused on developing and optimizing GitHub Actions and workflows. I am eager to expand my skill set by learning Golang and Kubernetes
-
+Software Engineer with over 7 years of Experience. I specialize in supporting, automating, and optimizing mission-critical deployments in both Cloud and On-Prem environments. Leveraging extensive knowledge in configuration management, CI/CD, and DevOps processes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaybilla/) 
