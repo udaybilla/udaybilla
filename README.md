@@ -4,7 +4,7 @@ Software Engineer with 8 years of experience in DevOps. I specialize in supporti
 ### Areas of Interest:
   Security
   DevSecOps
-  System Design
+  System-Design
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaybilla/) 
