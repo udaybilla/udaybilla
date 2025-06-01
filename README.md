@@ -5,6 +5,7 @@ Software Engineer with 8 years of experience in DevOps, Cloud, Platform Engineer
   Security
   DevSecOps
   System-Design
+  Generative AI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaybilla/) 
